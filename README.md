@@ -1,6 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm SECURITY87
 
-![](https://visitor-badge.glitch.me/badge?page_id=SECURITY87)
+![](https://visitor-badge.glitch.me/badge?page_id=SECURITY87) ![](https://gpvc.arturio.dev/SECURITY87) <a href="https://twitter.com/Haxnology_ID" target="blank"><img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=twitter" /></a> <a href="https://instagram.com/Haxnology_ID" target="blank"><img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=instagram" /></a>
+
+Currently I am open to any opportunity especially in IT as a Cyber Security and Programming
 
 [![Athallah github stats](https://github-readme-stats.vercel.app/api?username=SECURITY87&show_icons=true&theme=radical)](https://github.com/SECURITY87/)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SECURITY87&layout=compact)](https://github.com/SECURITY87/github-readme-stats)
