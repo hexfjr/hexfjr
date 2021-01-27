@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with: StackOverflow, Quora And Reddit
 - 💬 Ask me about: Programming, Cyber Security Or Hacking
 - 📫 How to reach me: [GMAIL](mailto:mrpredatoranonymous@gmail.com) [TELEGRAM](https://t.me/DecHex) [INSTAGRAM](https://instagram.com/Haxnology_ID) [TWITTER](https://twitter.com/Haxnology_ID)
- - 💰 Give me Donation: [Saweria](https://saweria.co/SECURITY87)
+ - 💰 Give me Donation: [Paypal](https://paypal.me/SECURITY87) [BuyMeACoffee](https://www.buymeacoffee.com/SECURITY87) [Saweria](https://saweria.co/SECURITY87)
  
  
 <!--
