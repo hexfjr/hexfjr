@@ -10,13 +10,23 @@
 
 - 🔭 I’m currently studying on Junior High School on Lamongan, Jawa Timur, Indonesia
 - 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Sass, Shell And Python
-- 🔭 I'm Junior on: Data Science And Front End Web 
+- 🔭 I'm Junior on: 
+  - Data Science
+  - Data Analyst 
+  - And Front End Web 
 - ⚡ fun fact:  I am a perfectionist And Humorous 
 - 🤔 I’m looking for help with: StackOverflow, Quora And Reddit
 - 💬 Ask me about: Programming, Cyber Security Or Hacking
-- 📫 How to reach me: [GMAIL](mailto:mrpredatoranonymous@gmail.com) [TELEGRAM](https://t.me/DecHex) [INSTAGRAM](https://instagram.com/Haxnology_ID) [TWITTER](https://twitter.com/Haxnology_ID)
- - 💰 Give me Donation: [Paypal](https://paypal.me/SECURITY87)  [Buy-Me-A-Coffee](https://www.buymeacoffee.com/SECURITY87)  [Saweria](https://saweria.co/SECURITY87)
-  [Become-A-Sponsor](https://github.com/sponsors/SECURITY87)
+- 📫 How to reach me:
+  - [GMAIL](mailto:mrpredatoranonymous@gmail.com) 
+  - [TELEGRAM](https://t.me/DecHex) 
+  - [INSTAGRAM](https://instagram.com/Haxnology_ID)
+  - [TWITTER](https://twitter.com/Haxnology_ID)
+ - 💰 Give me Donation: 
+  - [Paypal](https://paypal.me/SECURITY87) 
+  - [Buy-Me-A-Coffee](https://www.buymeacoffee.com/SECURITY87) 
+  - [Saweria](https://saweria.co/SECURITY87)
+ ### [Become-A-Sponsor](https://github.com/sponsors/SECURITY87)
  
  
 <!--
