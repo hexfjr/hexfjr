@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently studying on Junior High School on Lamongan, Jawa Timur, Indonesia
 - 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Sass, Shell And Python
-- 🔭 I'm Junior on: 
-  - Data Science
-  - Data Analyst 
-  - And Front End Web 
 - ⚡ fun fact:  I am a perfectionist And Humorous 
 - 🤔 I’m looking for help with: StackOverflow, Quora And Reddit
 - 💬 Ask me about: Programming, Cyber Security Or Hacking
+- :octocat: I'm Junior on: 
+  - Data Science
+  - Data Analyst 
+  - And Full Stack Web  
 - 📫 How to reach me:
    - [GMAIL](mailto:mrpredatoranonymous@gmail.com) 
    - [TELEGRAM](https://t.me/DecHex) 
