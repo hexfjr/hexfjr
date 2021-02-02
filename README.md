@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/SECURITY87-blue">
   </p>
  <p align="center">
-  <a href="https://twitter.com/Haxnology_ID" target="blank"> <img src="https://visitor-badge.glitch.me/badge?page_id=SECURITY87" /> 
   <a href="https://twitter.com/Haxnology_ID" target="blank"> <img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=twitter" /></a> 
   <a href="https://instagram.com/Haxnology_ID" target="blank"> <img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=instagram" /> </a>
    <a href="https://t.me/DecHex" target="blank"> <img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=telegram" /> </a>
