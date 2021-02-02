@@ -1,6 +1,14 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm SECURITY87
 
-![](https://visitor-badge.glitch.me/badge?page_id=SECURITY87) <a href="https://twitter.com/Haxnology_ID" target="blank"><img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=twitter" /></a> <a href="https://instagram.com/Haxnology_ID" target="blank"><img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=instagram" /></a>
+![](https://visitor-badge.glitch.me/badge?page_id=SECURITY87) 
+<p align="center">
+<img src="https://i.ibb.co/9H8jF6K/Whats-App-Image-2020-09-06-at-19-18-51-1.jpg" alt="GIF" width="128" height="128"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/SECURITY87-blue">
+  </p>
+ <p align="center">
+  <a href="https://twitter.com/Haxnology_ID" target="blank"> <img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=twitter" /></a> <a href="https://instagram.com/Haxnology_ID" target="blank"></a>
 
 **Currently I am open to any opportunity especially in IT as a Cyber Security and Programming**
 
