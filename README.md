@@ -26,7 +26,8 @@
 - 💬 Ask me about: Programming, Cyber Security Or Hacking
 - :octocat: I'm Junior on: 
   - Data Science
-  - Data Analyst 
+  - Data Analyst
+  - Engineering
   - And Full Stack Web  
 - 📫 How to reach me:
    - [GMAIL](mailto:mrpredatoranonymous@gmail.com) 
