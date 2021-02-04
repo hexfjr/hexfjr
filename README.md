@@ -17,7 +17,7 @@
 
 [![Athallah github stats](https://github-readme-stats.vercel.app/api?username=SECURITY87&show_icons=true&theme=radical)](https://github.com/SECURITY87/)<br>
 ![Thropy](https://github-profile-trophy.vercel.app/?username=SECURITY87&row=1&column=4)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SECURITY87&layout=compact)](https://github.com/SECURITY87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SECURITY87&layout=compact)](https://github.com/SECURITY87/)
 
 - 🔭 I’m currently studying on Junior High School on Lamongan, Jawa Timur, Indonesia
 - 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Sass, Shell And Python
