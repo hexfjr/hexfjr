@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SECURITY87) 
 <p align="center">
-<img src="https://i.ibb.co/9H8jF6K/Whats-App-Image-2020-09-06-at-19-18-51-1.jpg" alt="GIF" width="128" height="128"/>
+<img src="https://i.ibb.co/9H8jF6K/Whats-App-Image-2020-09-06-at-19-18-51-1.jpg" alt="GIF" width="150" height="128"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/SECURITY87-blue">
