@@ -12,9 +12,9 @@
   <a href="https://instagram.com/Haxnology_ID" target="blank"> <img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=instagram" /> </a>
    <a href="https://t.me/DecHex" target="blank"> <img src="https://img.shields.io/badge/@SECURITY87-30302f?style=flat&logo=telegram" /> </a>
 </p>
-
-**Currently I am open to all opportunities, especially in the IT field as Cyber Security and Programming, if you want to join my community you can join in [Haxnology ID Community](https://Haxnology-ID)**
-
+<br>
+**Currently I am open to all opportunities, especially in the IT field as Cyber Security and Programming, if you want to join my community you can join in [Haxnology ID Community](https://github.com/Haxnology-ID)**
+</br>
 [![Athallah github stats](https://github-readme-stats.vercel.app/api?username=SECURITY87&show_icons=true&theme=radical)](https://github.com/SECURITY87/)<br>
 ![Thropy](https://github-profile-trophy.vercel.app/?username=SECURITY87&row=1&column=4)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SECURITY87&layout=compact)](https://github.com/SECURITY87/)
