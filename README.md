@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SECURITY87&layout=compact)](https://github.com/SECURITY87/)
 
 - 🔭 I’m currently studying on Junior High School on Lamongan, Jawa Timur, Indonesia
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Sass, Shell And Python
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node JS, PHP, Sass, Shell And Python
 - ⚡ fun fact:  I am a perfectionist And Humorous 
 - 🤔 I’m looking for help with: StackOverflow, Quora And Reddit
 - 💬 Ask me about: Programming, Cyber Security Or Hacking
