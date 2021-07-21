@@ -37,7 +37,7 @@
  - 💰 Give me Donation: 
    - [Paypal](https://paypal.me/SECURITY87) 
    - [Buy-Me-A-Coffee](https://www.buymeacoffee.com/SECURITY87) 
-   - [Saweria](https://saweria.co/SECURITY87)
+   - [Saweria](https://saweria.co/fjrr)
  ##### 🔗 [MY Telegram Channel](https://t.me/DecHex_log)
  ######  Give ME Website :sweat_smile:
  ##### :guardsman: [Become-A-Sponsor](https://github.com/sponsors/SECURITY87)
