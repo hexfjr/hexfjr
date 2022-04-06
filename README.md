@@ -13,7 +13,6 @@
    <a href="https://t.me/DecHex" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=telegram" /> </a>
 </p>
 
-**Currently I am open to all opportunities, especially in the IT field as Cyber Security and Programming, if you want to join my community you can join in [Haxnology ID Community](https://github.com/Haxnology-ID)**
 ## &#x1f4c8; GitHub Stats 
 [![mfjrxn github stats](https://github-readme-stats.vercel.app/api?username=mfjrxn&show_icons=true&theme=radical)](https://github.com/mfjrxn/) <br>
 ![Thropy](https://github-profile-trophy.vercel.app/?username=mfjrxn&row=1&column=4)<br>
@@ -30,10 +29,10 @@
   - Engineering
   - And Full Stack Web  
 - 📫 How to reach me:
-   - [GMAIL](mailto:mrpredatoranonymous@gmail.com) 
+   - [GMAIL](mailto:mfjrxn@gmail.com) 
    - [TELEGRAM](https://t.me/DecHex) 
-   - [INSTAGRAM](https://instagram.com/Haxnology_ID)
-   - [TWITTER](https://twitter.com/Haxnology_ID)
+   - [INSTAGRAM](https://instagram.com/mfjrxn)
+   - [TWITTER](https://twitter.com/mfjrxn)
  - 💰 Give me Donation: 
    - [Paypal](https://paypal.me/SECURITY87) 
    - [Buy-Me-A-Coffee](https://www.buymeacoffee.com/SECURITY87) 
