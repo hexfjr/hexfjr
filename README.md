@@ -1,24 +1,24 @@
-#### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm Muhammad Fajar Nugroho
+#### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm M Fajar N
 
-![](https://visitor-badge.glitch.me/badge?page_id=mfjrxn) 
+![](https://visitor-badge.glitch.me/badge?page_id=hexfjr) 
 <p align="center">
 <img src="https://i.ibb.co/9H8jF6K/Whats-App-Image-2020-09-06-at-19-18-51-1.jpg" alt="GIF" width="150" height="128"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/mfjrxn-blue">
+<img src="https://img.shields.io/badge/hexfjr-blue">
   </p>
  <p align="center">
-  <a href="https://twitter.com/Haxnology_ID" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=twitter" /></a> 
-  <a href="https://instagram.com/mfn.fjr.15" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=instagram" /> </a>
-   <a href="https://t.me/DecHex" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=telegram" /> </a>
+  <a href="https://twitter.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@hexfjr-30302f?style=flat&logo=twitter" /></a> 
+  <a href="https://instagram.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@hexfjr-30302f?style=flat&logo=instagram" /> </a>
+   <a href="https://t.me/mfjrxn_bot" target="blank"> <img src="https://img.shields.io/badge/@hexfjr-30302f?style=flat&logo=telegram" /> </a>
 </p>
 
 ## &#x1f4c8; GitHub Stats 
-[![mfjrxn github stats](https://github-readme-stats.vercel.app/api?username=mfjrxn&show_icons=true&theme=radical)](https://github.com/mfjrxn/) <br>
-![Thropy](https://github-profile-trophy.vercel.app/?username=mfjrxn&row=1&column=4)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfjrxn&layout=compact)](https://github.com/mfjrxn/)
+[![mfjrxn github stats](https://github-readme-stats.vercel.app/api?username=hexfjr&show_icons=true&theme=radical)](https://github.com/mfjrxn/) <br>
+![Thropy](https://github-profile-trophy.vercel.app/?username=hexfjr&row=1&column=4)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexfjr&layout=compact)](https://github.com/mfjrxn/)
 
-- 🔭 I’m currently studying on Junior High School on Lamongan, Jawa Timur, Indonesia
+- 🔭 I’m currently studying on Junior High School on Lamongan, East Java, Indonesia
 - 🌱 I’m currently learning HTML, CSS, Javascript, Node JS, PHP, Sass, Shell And Python
 - ⚡ fun fact:  I am a perfectionist And Humorous 
 - 🤔 I’m looking for help with: StackOverflow, Quora And Reddit
@@ -30,13 +30,13 @@
   - And Full Stack Web  
 - 📫 How to reach me:
    - [GMAIL](mailto:mfjrxn@gmail.com) 
-   - [TELEGRAM](https://t.me/DecHex) 
+   - [TELEGRAM](https://t.me/mfjrxn_bot) 
    - [INSTAGRAM](https://instagram.com/mfjrxn)
    - [TWITTER](https://twitter.com/mfjrxn)
  - 💰 Give me Donation: 
    - [Paypal](https://paypal.me/SECURITY87) 
    - [Buy-Me-A-Coffee](https://www.buymeacoffee.com/SECURITY87) 
-   - [Saweria](https://saweria.co/fjrr)
+   - [Saweria](https://saweria.co/fjrx)
  ##### 🔗 [MY Telegram Channel](https://t.me/DecHex_log)
  #####  [Become-A-Sponsor](https://github.com/sponsors/mfjrxn)
  
