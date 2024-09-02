@@ -29,7 +29,6 @@
   - Engineering
   - And Full Stack Web  
 - 📫 How to reach me:
-   - [GMAIL](mailto:mfjrxn@gmail.com) 
    - [TELEGRAM](https://t.me/mfjrxn_bot) 
    - [INSTAGRAM](https://instagram.com/mfjrxn)
    - [TWITTER](https://twitter.com/mfjrxn)
