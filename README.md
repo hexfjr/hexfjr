@@ -23,7 +23,7 @@
 - ⚡ fun fact:  I am a perfectionist And Humorous 
 - 🤔 I’m looking for help with: StackOverflow, Quora And Reddit
 - 💬 Ask me about: Programming, Cyber Security Or Hacking
-- :octocat: I'm Junior on: 
+<! --- :octocat: I'm Junior on: -->
   - Data Science
   - Data Analyst
   - Engineering
