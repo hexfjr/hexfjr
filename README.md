@@ -1,4 +1,4 @@
-#### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm M Fajar N
+#### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm M Fajar N :octocat:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hexfjr) 
 <p align="center">
@@ -23,7 +23,7 @@
 - ⚡ fun fact:  I am a perfectionist And Humorous 
 - 🤔 I’m looking for help with: StackOverflow, Quora And Reddit
 - 💬 Ask me about: Programming, Cyber Security Or Hacking
-<! --- :octocat: I'm Junior on: -->
+ :octocat: I'm Junior on:
   - Data Science
   - Data Analyst
   - Engineering
