@@ -17,6 +17,7 @@
 [![hexfjr github stats](https://github-readme-stats.vercel.app/api?username=hexfjr&show_icons=true&theme=radical)](https://github.com/hexfjr/) <br>
 ![Thropy](https://github-profile-trophy.vercel.app/?username=hexfjr&row=1&column=4)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexfjr&layout=compact)](https://github.com/hexfjr/)
+[![Views](https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat)]
 
 <!--
 - 🔭 I’m currently studying on Junior High School on Lamongan, East Java, Indonesia
