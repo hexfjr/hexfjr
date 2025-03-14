@@ -2,8 +2,19 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hexfjr) 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/66818358?s=40&v=4" alt="GIF" width="150" height="128"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hexfjr&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/lines/hexfjr"
+  width="600"
+  height="300"
+/>
+</a>
 </p>
+
+<p align="center">
+  <b>IT Enthusiast | Developer | Jr.CySec</b>
+</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/hexfjr-blue">
   </p>
@@ -13,6 +24,7 @@
    <a href="https://t.me/mfjrxn_bot" target="blank"> <img src="https://img.shields.io/badge/@hexfjr-30302f?style=flat&logo=telegram" /> </a>
 </p> -->
 
+--- 
 ## &#x1f4c8; GitHub Stats 
 [![hexfjr github stats](https://github-readme-stats.vercel.app/api?username=hexfjr&show_icons=true&theme=radical)](https://github.com/hexfjr) <br>
 ![Thropy](https://github-profile-trophy.vercel.app/?username=hexfjr&row=1&column=4)<br>
@@ -56,3 +68,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
